@@ -40,3 +40,4 @@ Technologies used in the project:
 *   Node.js
 *   React
 *   Vite
+*   TailWindCss
