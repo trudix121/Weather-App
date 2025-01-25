@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Weather App 🌤️</h1>
 
-<p id="description">A Weather App in react and tailwindcss using [Tomorrow.io](https://tomorrow.io)</p>
+<p id="description">A Weather App in react and tailwindcss using https://tomorrow.io</p>
 
   
   
@@ -25,11 +25,18 @@ git clone https://github.com/trudix121/Weather-App.git
 npm install
 ```
 
+<p>3. Generate a API key from tomorrow.io/p>
+
+```
+https://tomorrow.io
+```
+
 <p>3. Run Vite Server</p>
 
 ```
 npm run dev
 ```
+
 
   
   
